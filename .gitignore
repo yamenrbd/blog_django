@@ -1,1 +1,4 @@
 env1/
+.env
+__pycach__/
+db.sqlite3
